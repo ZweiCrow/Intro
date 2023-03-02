@@ -4,4 +4,4 @@ header div:hover { filter: invert(0%) sepia(65%) saturate(0%) hue-rotate(143deg)
 header nav { width: fit-content; height: 100%; display: flex; align-items: center; justify-content: center; margin-right: 50px;}
 nav a { text-decoration: none; margin: 0 20px; color: rgb(198, 198, 198); font-weight: 900; transition: .5s; }
 nav a:hover { color: white; filter: drop-shadow(0 0 4px aqua); }
-img { height: 50%;}
+img {  height: 50%;}
