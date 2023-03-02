@@ -1,0 +1,7 @@
+header { width: 100%; height: 200px; background: rgb(32, 32, 32); display: flex; justify-content: space-between;}
+header div { width: 20%; height: 100%; margin-left: 30px; display: flex; font-size: 60px; justify-content: space-around; align-items: center; color: #61dafb;transition: .5s;}
+header div:hover { filter: invert(0%) sepia(65%) saturate(0%) hue-rotate(143deg) brightness(107%) contrast(100%) drop-shadow(0 0 4px rgb(255, 255, 255)); cursor: pointer;}
+header nav { width: fit-content; height: 100%; display: flex; align-items: center; justify-content: center; margin-right: 50px;}
+nav a { text-decoration: none; margin: 0 20px; color: rgb(198, 198, 198); font-weight: 900; transition: .5s; }
+nav a:hover { color: white; filter: drop-shadow(0 0 4px aqua); }
+img { height: 50%;}
